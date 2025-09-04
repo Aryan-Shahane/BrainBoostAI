@@ -1,8 +1,6 @@
 # BrainBoostAI (KTHack 2024 3rd Place Overall Winner)
 https://devpost.com/software/brainboostai
 
-About the project:
-
 ## Inspiration
 After the pandemic, the creators of this project (Aryan and Dylan) had originally struggled to regain academic momentum. As others went through similar experiences, we developed technology that would enhance learning and make education accessible.
 
