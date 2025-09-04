@@ -24,5 +24,6 @@ Natural language processing, speech recognition, and the difficulties/complexiti
 ## What's next for BrainBoostAI
 To improve the user’s experience, our algorithms will undergo fine-tuning to make them more accurate. We also intend to enhance this project by taking others' feedback and improving the user interface.
 
-Video demo link
+Video demo link:
+
 https://youtu.be/0zFGPCRaJHQ
