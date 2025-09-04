@@ -1,5 +1,5 @@
 # BrainBoostAI (KTHack 2024 3rd Place Overall Winner)
-
+https://devpost.com/software/brainboostai
 
 About the project:
 
